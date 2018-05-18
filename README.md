@@ -1,7 +1,9 @@
-Aishwarya Srivastava, 2017:
-
+Mario AI Agent using SARSA algorithm
+-------
 This is my implementation of the Mario AI agent using the SARSA algorithm. The actual implementation of the algorithm can be found in ```src/main/java/ch/idsia/agents/controllers/SarsaAgent.java```.
----------------
+
+Introduction
+-------
 This repository is an easy entry point to start playing with Mario AI Championship 2011.
 
 [Mario AI Championship 2011 Official Site](http://www.marioai.org/home)
